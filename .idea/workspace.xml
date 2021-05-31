@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19bd45f9-413e-4f36-b9a1-ce172c6bc07d" name="Default Changelist" comment="" />
+    <list default="true" id="19bd45f9-413e-4f36-b9a1-ce172c6bc07d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Laba8_war_exploded/compose_message.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Laba8_war_exploded/compose_message.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/compose_message.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/compose_message.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -27,6 +35,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1tGw6oIFCL5otnHH4KrY0n3nQeX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
@@ -289,7 +299,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622408560565</updated>
       <workItem from="1622408570162" duration="975000" />
-      <workItem from="1622418194758" duration="2465000" />
+      <workItem from="1622418194758" duration="4350000" />
     </task>
     <servers />
   </component>
@@ -305,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="211" key="#Project_Structure/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420180326" />
-    <state x="657" y="145" width="619" height="790" key="#Tomcat_9.0.463" timestamp="1622420718711">
+    <state x="657" y="145" width="619" height="790" key="#Tomcat_9.0.463" timestamp="1622452201869">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="657" y="145" width="619" height="790" key="#Tomcat_9.0.463/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420718711" />
+    <state x="657" y="145" width="619" height="790" key="#Tomcat_9.0.463/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452201869" />
     <state x="552" y="210" key="#Tomcat_Server" timestamp="1622409169370">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -321,54 +331,54 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="293" key="FileChooserDialogImpl/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622409168190" />
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1622420728749">
+    <state width="636" height="295" key="GridCell.Tab.0.bottom" timestamp="1622452305982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728749" />
-    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1622420728749">
+    <state width="636" height="295" key="GridCell.Tab.0.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305982" />
+    <state width="636" height="295" key="GridCell.Tab.0.center" timestamp="1622452305982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728749" />
-    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1622420728749">
+    <state width="636" height="295" key="GridCell.Tab.0.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305982" />
+    <state width="636" height="295" key="GridCell.Tab.0.left" timestamp="1622452305982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728749" />
-    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1622420728749">
+    <state width="636" height="295" key="GridCell.Tab.0.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305982" />
+    <state width="636" height="295" key="GridCell.Tab.0.right" timestamp="1622452305982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728749" />
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.0.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305982" />
+    <state width="636" height="295" key="GridCell.Tab.1.bottom" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.1.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.1.center" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.1.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.1.left" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.1.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.1.right" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.1.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.2.bottom" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.2.bottom/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.2.center" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.2.center/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.2.left" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
-    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1622420728464">
+    <state width="636" height="295" key="GridCell.Tab.2.left/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
+    <state width="636" height="295" key="GridCell.Tab.2.right" timestamp="1622452305992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622420728464" />
+    <state width="636" height="295" key="GridCell.Tab.2.right/-1920.9.1536.864/0.0.1920.1080@0.0.1920.1080" timestamp="1622452305992" />
     <state x="342" y="160" key="new project wizard" timestamp="1622409552244">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

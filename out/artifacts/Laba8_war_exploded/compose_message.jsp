@@ -9,14 +9,14 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 </head>
 <body>
 <form action="/Laba8_war_exploded/send_message.do" method="post">
-    Текст сообщения:
+    Message:
     <input type="text" name="message" style="width: 50%">
-    <input type="submit" value="Отправить">
-    <a href="/Laba8_war_exploded/logout.do" target="_top">Выйти из чата</a>
+    <input type="submit" value="Send">
+    <a href="/Laba8_war_exploded/logout.do" target="_top">Leave</a>
 </form>
 </body>
 </html>
